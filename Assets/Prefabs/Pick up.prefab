@@ -25,7 +25,7 @@ GameObject:
   - 114: {fileID: 114000010878210142}
   m_Layer: 0
   m_Name: Pick up
-  m_TagString: Untagged
+  m_TagString: Pick up
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

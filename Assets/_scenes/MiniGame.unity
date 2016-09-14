@@ -615,14 +615,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.5000017
-      objectReference: {fileID: 0}
     - target: {fileID: 1000014175014938, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_Name
       value: Pick up (6)
@@ -713,7 +705,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &880842249
 MonoBehaviour:
   m_ObjectHideFlags: 0
