@@ -400,15 +400,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_LocalScale.y
-      value: 0.5000002
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_LocalScale.z
-      value: 0.5000015
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1000014175014938, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_Name
       value: Pick up (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
@@ -668,15 +672,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_LocalScale.y
-      value: 0.5000002
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_LocalScale.z
-      value: 0.5000005
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1000014175014938, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_Name
       value: Pick up (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014175014938, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
@@ -840,6 +848,10 @@ Prefab:
     - target: {fileID: 4000010593481826, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
       propertyPath: m_LocalScale.z
       value: 0.50000024
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000014175014938, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c3b29d90c9dc889489a4966f235f2800, type: 2}
